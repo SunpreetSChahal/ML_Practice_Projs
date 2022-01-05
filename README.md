@@ -1,5 +1,3 @@
 ### Linear Regression Practice
 
-This repo will store various practice projects related to linear regression.
-
-I will use this repo and the projects for future reference.
+In efforts to develop competancy with regression models - I will be working on various projects to build my ability to apply regression models.
