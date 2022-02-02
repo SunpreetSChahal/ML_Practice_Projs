@@ -1,5 +1,7 @@
 ## ML Model Practice
-
+### Repo Legend:
+  - 4.x - Regression Models
+  
 ### General Tips:
 #### Logistic regression vs. Decision tree:
   - If your data can be split into two seperable parts - use Logistic regression, else, use a Decision tree.
