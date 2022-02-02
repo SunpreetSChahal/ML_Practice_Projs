@@ -1,6 +1,7 @@
 ## ML Model Practice
 ### Repo Legend:
-  - 4.x - Regression Models
+  - 4.x - Supervised Models
+  - 5.x - Unsupervised Models
   
 ### General Tips:
 #### Logistic regression vs. Decision tree:
