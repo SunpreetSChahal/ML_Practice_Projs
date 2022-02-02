@@ -9,7 +9,7 @@
     - For example, giving the model a picture of a gazelle and seeing what class the model places the image in. 
     - Does require human intervention.
 
-  - Unsupervised: Uses unlabelled data to train ML models; finds trends and patterns in the input data. The model tries to label the data based on the provided features.
+  - Unsupervised: Uses unlabelled data to train ML models; finds trends and patterns found within the input data. The model tries to label the data based on the provided features. The output is unknown.
     - For example, giving the model a picture of a vehicle and seeing what class the model places the image in (car, bus or truck); by seeing the dimensions of the vehicle, features of the vehicle etc.
     - Doesn't require human intervention.
 
